@@ -1,6 +1,51 @@
 [
   {
     "direction": "Flat", 
+    "dateString": "Tue Aug 30 21:20:13 BST 2016", 
+    "sgv": 66, 
+    "date": 1472588413431, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c5eaa57821121d674cc797", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Tue Aug 30 21:15:13 BST 2016", 
+    "sgv": 60, 
+    "date": 1472588113658, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c5e9787821121d674cc793", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Tue Aug 30 21:10:13 BST 2016", 
+    "sgv": 59, 
+    "date": 1472587813870, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c5e84d7821121d674cc78d", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Tue Aug 30 21:05:14 BST 2016", 
+    "sgv": 58, 
+    "date": 1472587514063, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c5e7287821121d674cc789", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Tue Aug 30 21:00:14 BST 2016", 
+    "sgv": 62, 
+    "date": 1472587214282, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c5e5f47821121d674cc784", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
     "dateString": "Tue Aug 30 20:55:14 BST 2016", 
     "sgv": 66, 
     "date": 1472586914461, 
@@ -42,51 +87,6 @@
     "date": 1472584813938, 
     "device": "medtronic-640g://6213-1080612", 
     "_id": "57c5dc937821121d674cc764", 
-    "type": "sgv"
-  }, 
-  {
-    "direction": "Flat", 
-    "dateString": "Tue Aug 30 20:15:14 BST 2016", 
-    "sgv": 106, 
-    "date": 1472584514138, 
-    "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5db697821121d674cc75f", 
-    "type": "sgv"
-  }, 
-  {
-    "direction": "Flat", 
-    "dateString": "Tue Aug 30 20:10:14 BST 2016", 
-    "sgv": 117, 
-    "date": 1472584214342, 
-    "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5da3c7821121d674cc75a", 
-    "type": "sgv"
-  }, 
-  {
-    "direction": "SingleUp", 
-    "dateString": "Tue Aug 30 19:50:13 BST 2016", 
-    "sgv": 120, 
-    "date": 1472583013750, 
-    "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5d61b7821121d674cc74c", 
-    "type": "sgv"
-  }, 
-  {
-    "direction": "SingleUp", 
-    "dateString": "Tue Aug 30 19:45:13 BST 2016", 
-    "sgv": 117, 
-    "date": 1472582713992, 
-    "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5d4b37821121d674cc743", 
-    "type": "sgv"
-  }, 
-  {
-    "direction": "SingleUp", 
-    "dateString": "Tue Aug 30 19:40:14 BST 2016", 
-    "sgv": 106, 
-    "date": 1472582414469, 
-    "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5d3b27821121d674cc740", 
     "type": "sgv"
   }
 ]
