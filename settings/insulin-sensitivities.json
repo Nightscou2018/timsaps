@@ -5,23 +5,23 @@
     {
       "i": 0, 
       "start": "00:00:00", 
-      "sensitivity": 144.0, 
+      "sensitivity": 50.4, 
       "x": 0, 
       "offset": 0
     }, 
     {
-      "i": 12, 
-      "start": "06:00:00", 
-      "sensitivity": 108.0, 
+      "i": 8, 
+      "start": "04:00:00", 
+      "sensitivity": 86.39999999999999, 
       "x": 1, 
-      "offset": 360
+      "offset": 240
     }, 
     {
-      "i": 40, 
-      "start": "20:00:00", 
-      "sensitivity": 144.0, 
+      "i": 16, 
+      "start": "08:00:00", 
+      "sensitivity": 50.4, 
       "x": 2, 
-      "offset": 1200
+      "offset": 480
     }
   ], 
   "first": 2
