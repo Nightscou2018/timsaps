@@ -1,92 +1,92 @@
 [
   {
+    "direction": "Flat", 
+    "dateString": "Wed Aug 31 00:15:14 BST 2016", 
+    "sgv": 128, 
+    "date": 1472598914578, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c613cf7821121d674cc83f", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Wed Aug 31 00:10:14 BST 2016", 
+    "sgv": 130, 
+    "date": 1472598614709, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c612e67821121d674cc83b", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Wed Aug 31 00:05:13 BST 2016", 
+    "sgv": 132, 
+    "date": 1472598313993, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c611b07821121d674cc835", 
+    "type": "sgv"
+  }, 
+  {
     "direction": "FortyFiveUp", 
-    "dateString": "Tue Aug 30 21:40:14 BST 2016", 
-    "sgv": 97, 
-    "date": 1472589614212, 
+    "dateString": "Wed Aug 31 00:00:14 BST 2016", 
+    "sgv": 136, 
+    "date": 1472598014235, 
     "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5ef6c7821121d674cc7aa", 
-    "type": "sgv"
-  }, 
-  {
-    "direction": "FortyFiveUp", 
-    "dateString": "Tue Aug 30 21:35:14 BST 2016", 
-    "sgv": 94, 
-    "date": 1472589314356, 
-    "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5ee7e7821121d674cc7a4", 
-    "type": "sgv"
-  }, 
-  {
-    "direction": "FortyFiveUp", 
-    "dateString": "Tue Aug 30 21:30:13 BST 2016", 
-    "sgv": 90, 
-    "date": 1472589013554, 
-    "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5ed197821121d674cc7a0", 
+    "_id": "57c610487821121d674cc82e", 
     "type": "sgv"
   }, 
   {
     "direction": "Flat", 
-    "dateString": "Tue Aug 30 21:20:13 BST 2016", 
-    "sgv": 66, 
-    "date": 1472588413431, 
+    "dateString": "Tue Aug 30 23:55:14 BST 2016", 
+    "sgv": 130, 
+    "date": 1472597714448, 
     "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5eaa57821121d674cc797", 
+    "_id": "57c60f947821121d674cc829", 
     "type": "sgv"
   }, 
   {
     "direction": "Flat", 
-    "dateString": "Tue Aug 30 21:15:13 BST 2016", 
-    "sgv": 60, 
-    "date": 1472588113658, 
+    "dateString": "Tue Aug 30 23:50:14 BST 2016", 
+    "sgv": 126, 
+    "date": 1472597414573, 
     "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5e9787821121d674cc793", 
+    "_id": "57c60ea17821121d674cc823", 
     "type": "sgv"
   }, 
   {
     "direction": "Flat", 
-    "dateString": "Tue Aug 30 21:10:13 BST 2016", 
-    "sgv": 59, 
-    "date": 1472587813870, 
+    "dateString": "Tue Aug 30 23:45:14 BST 2016", 
+    "sgv": 116, 
+    "date": 1472597114477, 
     "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5e84d7821121d674cc78d", 
+    "_id": "57c60ca07821121d674cc81d", 
     "type": "sgv"
   }, 
   {
     "direction": "Flat", 
-    "dateString": "Tue Aug 30 21:05:14 BST 2016", 
-    "sgv": 58, 
-    "date": 1472587514063, 
+    "dateString": "Tue Aug 30 23:40:14 BST 2016", 
+    "sgv": 113, 
+    "date": 1472596814116, 
     "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5e7287821121d674cc789", 
+    "_id": "57c60b957821121d674cc819", 
     "type": "sgv"
   }, 
   {
     "direction": "Flat", 
-    "dateString": "Tue Aug 30 21:00:14 BST 2016", 
-    "sgv": 62, 
-    "date": 1472587214282, 
+    "dateString": "Tue Aug 30 23:35:14 BST 2016", 
+    "sgv": 115, 
+    "date": 1472596514277, 
     "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5e5f47821121d674cc784", 
+    "_id": "57c60aa57821121d674cc815", 
     "type": "sgv"
   }, 
   {
     "direction": "Flat", 
-    "dateString": "Tue Aug 30 20:55:14 BST 2016", 
-    "sgv": 66, 
-    "date": 1472586914461, 
+    "dateString": "Tue Aug 30 23:30:14 BST 2016", 
+    "sgv": 109, 
+    "date": 1472596214518, 
     "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5e4cf7821121d674cc77f", 
-    "type": "sgv"
-  }, 
-  {
-    "direction": "Flat", 
-    "dateString": "Tue Aug 30 20:40:14 BST 2016", 
-    "sgv": 83, 
-    "date": 1472586014315, 
-    "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5e27a7821121d674cc779", 
+    "_id": "57c6093e7821121d674cc80f", 
     "type": "sgv"
   }
 ]
