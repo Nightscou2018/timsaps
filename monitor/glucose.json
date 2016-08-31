@@ -1,6 +1,15 @@
 [
   {
     "direction": "Flat", 
+    "dateString": "Wed Aug 31 15:55:14 BST 2016", 
+    "sgv": 123, 
+    "date": 1472655314443, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c6f0037821121d674ccaaf", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
     "dateString": "Wed Aug 31 15:50:14 BST 2016", 
     "sgv": 122, 
     "date": 1472655014632, 
