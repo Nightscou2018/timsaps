@@ -1,6 +1,78 @@
 [
   {
     "direction": "Flat", 
+    "dateString": "Wed Aug 31 14:30:15 BST 2016", 
+    "sgv": 144, 
+    "date": 1472650215059, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c6dc0c7821121d674cca6f", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Wed Aug 31 14:25:15 BST 2016", 
+    "sgv": 144, 
+    "date": 1472649915244, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c6dae27821121d674cca6a", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Wed Aug 31 14:20:15 BST 2016", 
+    "sgv": 144, 
+    "date": 1472649615464, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c6d9b57821121d674cca65", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Wed Aug 31 14:10:14 BST 2016", 
+    "sgv": 143, 
+    "date": 1472649014832, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c6d75f7821121d674cca60", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Wed Aug 31 14:05:15 BST 2016", 
+    "sgv": 144, 
+    "date": 1472648715539, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c6d6567821121d674cca5c", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Wed Aug 31 14:00:15 BST 2016", 
+    "sgv": 144, 
+    "date": 1472648415673, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c6d5627821121d674cca59", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Wed Aug 31 13:50:15 BST 2016", 
+    "sgv": 146, 
+    "date": 1472647815472, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c6d36e7821121d674cca41", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
+    "dateString": "Wed Aug 31 13:45:14 BST 2016", 
+    "sgv": 147, 
+    "date": 1472647514819, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c6d1877821121d674cca3f", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
     "dateString": "Wed Aug 31 13:40:15 BST 2016", 
     "sgv": 146, 
     "date": 1472647215682, 
