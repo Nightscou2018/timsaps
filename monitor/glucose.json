@@ -1,6 +1,15 @@
 [
   {
     "direction": "Flat", 
+    "dateString": "Thu Sep 01 12:40:15 BST 2016", 
+    "sgv": 70, 
+    "date": 1472730015209, 
+    "device": "medtronic-640g://6213-1080612", 
+    "_id": "57c813c47821121d674ccdf1", 
+    "type": "sgv"
+  }, 
+  {
+    "direction": "Flat", 
     "dateString": "Thu Sep 01 12:35:15 BST 2016", 
     "sgv": 65, 
     "date": 1472729715432, 
@@ -2580,15 +2589,6 @@
     "date": 1472533215398, 
     "device": "medtronic-640g://6213-1080612", 
     "_id": "57c5adf17821121d674cc67b", 
-    "type": "sgv"
-  }, 
-  {
-    "direction": "Flat", 
-    "dateString": "Tue Aug 30 05:55:15 BST 2016", 
-    "sgv": 105, 
-    "date": 1472532915780, 
-    "device": "medtronic-640g://6213-1080612", 
-    "_id": "57c5adf17821121d674cc67a", 
     "type": "sgv"
   }
 ]
