@@ -1,0 +1,62 @@
+[
+  {
+    "nightscout/recent-treatments.json": {
+      "oper": "format-recent-history-treatments",
+      "use": "shell",
+      "reporter": "JSON",
+      "device": "ns",
+      "remainder": "monitor/pump-history.json model.json",
+      "json_default": "True"
+    },
+    "type": "report",
+    "name": "nightscout/recent-treatments.json"
+  },
+  {
+    "type": "report",
+    "name": "nightscout/uploaded.json",
+    "nightscout/uploaded.json": {
+      "oper": "upload-non-empty-treatments",
+      "use": "shell",
+      "reporter": "JSON",
+      "device": "ns",
+      "remainder": "nightscout/recent-treatments.json",
+      "json_default": "True"
+    }
+  },
+  {
+    "type": "report",
+    "nightscout/recent-missing-entries.json": {
+      "oper": "format-recent-type",
+      "use": "shell",
+      "reporter": "JSON",
+      "device": "ns",
+      "remainder": "tz entries monitor/glucose.json",
+      "json_default": "True"
+    },
+    "name": "nightscout/recent-missing-entries.json"
+  },
+  {
+    "type": "report",
+    "nightscout/uploaded-entries.json": {
+      "oper": "upload-non-empty-type",
+      "use": "shell",
+      "reporter": "JSON",
+      "device": "ns",
+      "remainder": "entries.json nightscout/recent-missing-entries.json",
+      "json_default": "True"
+    },
+    "name": "nightscout/uploaded-entries.json"
+  },
+  {
+    "nightscout/preflight.json": {
+      "oper": "preflight",
+      "use": "shell",
+      "reporter": "JSON",
+      "device": "ns",
+      "remainder": "",
+      "json_default": "True"
+    },
+    "type": "report",
+    "name": "nightscout/preflight.json"
+  }
+]
